@@ -1,6 +1,6 @@
 # 🌊 WaveTip — RLUSD Tipping for Twitch 💰 
 
-> **Tip. Connect. Earn.** Bring crypto tipping to Twitch with **RLUSD on XRPL** — fast, seamless, and decentralized.
+> **Tip. Connect. Earn.** Bring crypto tipping to Twitch with **RLUSD on XRPL** — fast, seamless, and secure.
 
 [➡️ Visit Website](https://wavetip.fi)
 
@@ -15,7 +15,7 @@
 
 ## ✨ What is WaveTip?
 
-**WaveTip** is a Twitch browser extension that lets viewers send **RLUSD tokens** (Ripple USD stablecoin) directly on the **XRP Ledger (XRPL)** — creating a seamless, decentralized **tipping economy** for the streaming community.
+**WaveTip** is a browser extension that enables viewers send **RLUSD tokens** (Ripple USD stablecoin) directly on the **XRP Ledger (XRPL)** — creating a seamless, low-fee **tipping economy** for the streaming community.
 
 Whether you're a **viewer** or a **streamer**, WaveTip makes crypto-native support fast, fun, and frictionless.
 

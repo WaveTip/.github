@@ -1,50 +1,118 @@
-# 💰 WaveTip - Twitch Extension for RLUSD on XRPL
+# 🌊 WaveTip — RLUSD Tipping for Twitch 💰 
+
+> **Tip. Connect. Earn.** Bring crypto tipping to Twitch with **RLUSD on XRPL** — fast, seamless, and decentralized.
+
+[➡️ Visit Website](https://wavetip.fi)
+
+---
 
 <div align="center">
-  <img src="logo_wavetip.png" alt="WaveTip Logo" width="200"/>
-  <p><em>Send and receive RLUSD tokens on XRP Ledger with ease while watching Twitch streams!</em></p>
-  
-  [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-yellow.svg)](https://chrome.google.com/webstore)
-  [![XRP Ledger](https://img.shields.io/badge/XRPL-v4.2.0-green.svg)](https://xrpl.org/)
+  <img src="logo_wavetip.png" alt="WaveTip Logo" width="160" />
+  <p><em>Send & receive RLUSD tips while enjoying your favorite Twitch streams — all powered by the XRP Ledger.</em></p>
 </div>
 
-## 📖 Table of Contents
-- [Overview](#-overview)
-- [Key Features](#-key-features)
-- [Features](#-features)
-- [Disclaimer](#️-disclaimer)
+---
 
-## ✨ Overview
+## ✨ What is WaveTip?
 
-WaveTip is a powerful Twitch browser extension that enables viewers to send RLUSD on the XRP Ledger (XRPL) while watching their favorite streamers. Perfect for streamers looking to implement a tipping economy.
+**WaveTip** is a Twitch browser extension that lets viewers send **RLUSD tokens** (Ripple USD stablecoin) directly on the **XRP Ledger (XRPL)** — creating a seamless, decentralized **tipping economy** for the streaming community.
 
-## 🚀 Key Features
+Whether you're a **viewer** or a **streamer**, WaveTip makes crypto-native support fast, fun, and frictionless.
 
-### 🏦 Wallet Management
-- **Create new XRPL wallets** directly from the extension
-- **View your balances** and wallet information including QR code
-- **Secure wallet connection** between Twitch accounts and XRPL addresses
+---
+
+## ⚡ Start Tipping Now
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=💸+Tip+your+favorite+streamers+instantly;🌐+Built+on+XRPL+for+speed+%26+efficiency;🔐+Secure,+non-custodial,+user-controlled" alt="Typing SVG" />
+</p>
+
+[➡️ Install WaveTip](https://chrome.google.com/webstore)
+
+---
+
+## 🚀 Core Features
+
+| 🏦 Wallet Management | 💸 Crypto Tipping | 📊 Transaction History |
+|----------------------|------------------|-------------------------|
+| Create, view, and manage XRPL wallets directly in the extension. | Send RLUSD to streamers or viewers in just a few clicks — right from Twitch. | Browse a full transaction log to track every tip and payment. |
+
+---
+
+## 🔍 Feature Breakdown
+
+### 🔰 Essentials
+- Create new **XRPL wallets** with ease
+- View RLUSD **balances** and QR-coded wallet info
+- **Secure linking** between Twitch & XRPL accounts
 
 ### 💸 Transactions
-- **Send tips** to streamers or other viewers
-- **Track transaction history** with detailed logs
-- **Fee system** with 1% of each transaction sent to a designated hot wallet
+- Instantly **send RLUSD** to Twitch streamers or chat users
+- **View full history** of all tips and transactions
+- Automatic **1% fee routing** to WaveTip hot wallet for platform sustainability
 
+---
 
-## 🤖 Features
+## ❓ Frequently Asked Questions
 
-### 🔰 Basic Features
-- Create and manage XRPL wallets
-- Check RLUSD balance
-- Display wallet address and QR code
+<details>
+  <summary>🤔 What is WaveTip?</summary>
+  <p><strong>WaveTip</strong> is a browser extension that enables crypto tipping using RLUSD on Twitch via the XRPL.</p>
+</details>
 
-### 💸 Transactions
-- Send RLUSD to streamers or other viewers
-- View transaction history 
+<details>
+  <summary>🎯 Who can use WaveTip?</summary>
+  <p>Anyone with a Twitch account and access to the browser extension can send or receive tips.</p>
+</details>
 
-### 🔗 Advanced Features
-- View entire transaction history
+<details>
+  <summary>🪙 What is RLUSD?</summary>
+  <p><strong>RLUSD</strong> is a USD-pegged stablecoin issued on the XRP Ledger for fast and low-fee transactions.</p>
+</details>
 
-## ⚠️ Disclaimer
+<details>
+  <summary>⚠️ Is this real money?</summary>
+  <p>Currently, WaveTip runs on the <strong>XRPL Testnet</strong>. RLUSD tokens have <strong>no real-world value</strong> and are used for demonstration only.</p>
+</details>
 
-This extension currently uses the XRPL Testnet. The RLUSD tokens have no real-world value and are intended for testing and demonstration purposes only.
+➡️ [More FAQs](https://wavetip.fi)
+
+---
+
+## 🧬 Built on XRPL
+
+WaveTip is proudly built on the **XRP Ledger**, a fast, low-cost, and eco-friendly blockchain network perfect for high-volume transactions.
+
+[🔍 Learn more about XRPL](https://xrpl.org)
+
+---
+
+## 🏗️ Tech Stack
+
+- 💵 **RLUSD Stablecoin**
+- 🌊 **XRP Ledger**
+- 🧩 **Twitch API Integration**
+- 🔒 **Non-Custodial Wallets**
+- 🧠 **Chrome Extension Framework**
+
+---
+
+## 🤝 Powered by the Community
+
+<p align="center">
+  <img src="logo_wavetip.png" alt="WaveTip" height="80" />
+</p>
+
+<p align="center">
+  <strong>WaveTip</strong> is a community-driven initiative aiming to democratize streaming support through blockchain technology.
+</p>
+
+---
+
+> _"WaveTip bridges content creation and crypto in real-time — for a future where value flows as easily as conversation."_ 🚀
+
+<p align="center">
+  <img src="https://img.shields.io/badge/xrpl-v4.2.0-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/browser-extension-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/rlusd-stablecoin-blue?style=for-the-badge" />
+</p>

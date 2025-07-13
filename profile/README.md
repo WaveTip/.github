@@ -91,7 +91,6 @@ WaveTip is proudly built on the **XRP Ledger**, a fast, low-cost, and eco-friend
 
 - 💵 **RLUSD Stablecoin**
 - 🌊 **XRP Ledger**
-- 🧩 **Twitch API Integration**
 - 🔒 **Non-Custodial Wallets**
 - 🧠 **Chrome Extension Framework**
 

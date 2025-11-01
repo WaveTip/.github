@@ -94,9 +94,9 @@ WaveTip is proudly built on **Stellar**, a fast, low-cost, and eco-friendly bloc
 </p>
 
 <p align="center">
-  <img src="logo_stellar.png" alt="Stellar" height="70" style="vertical-align: middle;" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="logo_soroban.png" alt="Soroban" height="35" style="vertical-align: middle;" />
+  <img src="logo_stellar.png" alt="Stellar" height="70" align="middle" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="logo_soroban.png" alt="Soroban" height="35" align="middle" />
 </p>
 
 ---

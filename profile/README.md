@@ -1,6 +1,6 @@
-# 🌊 WaveTip — RLUSD Tipping for Twitch 💰 
+# 🌊 WaveTip — USDC Tipping for Twitch
 
-> **Tip. Connect. Earn.** Bring crypto tipping to Twitch with **RLUSD on XRPL** — fast, seamless, and secure.
+> **Tip. Connect. Earn.** Bring crypto tipping to Twitch with **USDC on Stellar** — fast, seamless, and secure.
 
 [➡️ Visit Website](https://wavetip.fi)
 
@@ -8,14 +8,14 @@
 
 <div align="center">
   <img src="logo_wavetip.png" alt="WaveTip Logo" width="160" />
-  <p><em>Send & receive RLUSD tips while enjoying your favorite Twitch streams — all powered by the XRP Ledger.</em></p>
+  <p><em>Send & receive USDC tips while enjoying your favorite Twitch streams — all powered by Stellar.</em></p>
 </div>
 
 ---
 
 ## ✨ What is WaveTip?
 
-**WaveTip** is a browser extension that enables viewers send **RLUSD tokens** (Ripple USD stablecoin) directly on the **XRP Ledger (XRPL)** — creating a seamless, low-fee **tipping economy** for the streaming community.
+**WaveTip** is a browser extension that enables viewers send **USDC tokens** directly on **Stellar** — creating a seamless, low-fee **tipping economy** for the streaming community.
 
 Whether you're a **viewer** or a **streamer**, WaveTip makes crypto-native support fast, fun, and frictionless.
 
@@ -24,7 +24,7 @@ Whether you're a **viewer** or a **streamer**, WaveTip makes crypto-native suppo
 ## ⚡ Start Tipping Now
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=💸+Tip+your+favorite+streamers+instantly;🌐+Built+on+XRPL+for+speed+%26+efficiency;🔐+Secure,+non-custodial,+user-controlled" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=💸+Tip+your+favorite+streamers+instantly;🌐+Built+on+Stellar+for+speed+%26+efficiency;🔐+Secure,+non-custodial,+user-controlled" alt="Typing SVG" />
 </p>
 
 [➡️ Install WaveTip](https://chrome.google.com/webstore)
@@ -35,21 +35,8 @@ Whether you're a **viewer** or a **streamer**, WaveTip makes crypto-native suppo
 
 | 🏦 Wallet Management | 💸 Crypto Tipping | 📊 Transaction History |
 |----------------------|------------------|-------------------------|
-| Create, view, and manage XRPL wallets directly in the extension. | Send RLUSD to streamers or viewers in just a few clicks — right from Twitch. | Browse a full transaction log to track every tip and payment. |
+| Create, view, and manage Stellar wallets directly in the extension. | Send USDC to streamers or viewers in just a few clicks right from Twitch. | Browse a full transaction log to track every tip and payment. |
 
----
-
-## 🔍 Feature Breakdown
-
-### 🔰 Essentials
-- Create new **XRPL wallets** with ease
-- View RLUSD **balances** and QR-coded wallet info
-- **Secure linking** between Twitch & XRPL accounts
-
-### 💸 Transactions
-- Instantly **send RLUSD** to Twitch streamers or chat users
-- **View full history** of all tips and transactions
-- Automatic **1% fee routing** to WaveTip hot wallet for platform sustainability
 
 ---
 
@@ -57,7 +44,7 @@ Whether you're a **viewer** or a **streamer**, WaveTip makes crypto-native suppo
 
 <details>
   <summary>🤔 What is WaveTip?</summary>
-  <p><strong>WaveTip</strong> is a browser extension that enables crypto tipping using RLUSD on Twitch via the XRPL.</p>
+  <p><strong>WaveTip</strong> is a browser extension that enables crypto tipping using USDC on Twitch via Stellar.</p>
 </details>
 
 <details>
@@ -66,44 +53,50 @@ Whether you're a **viewer** or a **streamer**, WaveTip makes crypto-native suppo
 </details>
 
 <details>
-  <summary>🪙 What is RLUSD?</summary>
-  <p><strong>RLUSD</strong> is a USD-pegged stablecoin issued on the XRP Ledger for fast and low-fee transactions.</p>
+  <summary>🪙 What is USDC?</summary>
+  <p><strong>USDC</strong> is a USD-pegged stablecoin for fast and low-fee transactions, widely supported across multiple blockchain networks including Stellar.</p>
 </details>
 
 <details>
   <summary>⚠️ Is this real money?</summary>
-  <p>Currently, WaveTip runs on the <strong>XRPL Testnet</strong>. RLUSD tokens have <strong>no real-world value</strong> and are used for demonstration only.</p>
+  <p>Currently, WaveTip runs on the <strong>Stellar Testnet</strong>. USDC tokens have <strong>no real-world value</strong> and are used for demonstration only.</p>
 </details>
 
 ➡️ [More FAQs](https://wavetip.fi)
 
 ---
 
-## 🧬 Built on XRPL
+## 🧬 Built on Stellar
 
-WaveTip is proudly built on the **XRP Ledger**, a fast, low-cost, and eco-friendly blockchain network perfect for high-volume transactions.
+WaveTip is proudly built on **Stellar**, a fast, low-cost, and eco-friendly blockchain network perfect for high-volume transactions.
 
-[🔍 Learn more about XRPL](https://xrpl.org)
+[🔍 Learn more about Stellar](https://stellar.org)
 
 ---
 
 ## 🏗️ Tech Stack
 
-- 💵 **RLUSD Stablecoin**
-- 🌊 **XRP Ledger**
+- 💵 **USDC Stablecoin**
+- 🌊 **Stellar Network**
 - 🔒 **Non-Custodial Wallets**
 - 🧠 **Chrome Extension Framework**
 
 ---
 
-## 🤝 Powered by the Community
+## 🤝 Powered by & in Partnership With
 
 <p align="center">
-  <img src="logo_wavetip.png" alt="WaveTip" height="80" />
+  <img src="logo_wavetip.png" alt="WaveTip" height="70" />
 </p>
 
 <p align="center">
-  <strong>WaveTip</strong> is a community-driven initiative aiming to democratize streaming support through blockchain technology.
+  <a href="https://wavetip.fi"><strong>WaveTip</strong></a> is proudly built on <a href="https://stellar.org"><strong>Stellar</strong></a> and powered by <a href="https://stellar.org/soroban"><strong>Soroban</strong></a> smart contracts.
+</p>
+
+<p align="center">
+  <img src="logo_stellar.png" alt="Stellar" height="70" style="vertical-align: middle;" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="logo_soroban.png" alt="Soroban" height="35" style="vertical-align: middle;" />
 </p>
 
 ---
@@ -111,7 +104,8 @@ WaveTip is proudly built on the **XRP Ledger**, a fast, low-cost, and eco-friend
 > _"WaveTip bridges content creation and crypto in real-time — for a future where value flows as easily as conversation."_ 🚀
 
 <p align="center">
-  <img src="https://img.shields.io/badge/xrpl-v4.2.0-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/soroban-stellar-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/browser-extension-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/rlusd-stablecoin-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/usdc-stablecoin-blue?style=for-the-badge" />
 </p>
+

@@ -2,7 +2,7 @@
 
 > **Tip. Connect. Earn.** Bring crypto tipping to Twitch with **USDC on Stellar** — fast, seamless, and secure.
 
-[➡️ Visit Website](https://wavetip.fi)
+[➡️ Visit Website](https://app,wavetip.fi)
 
 ---
 
@@ -27,7 +27,7 @@ Whether you're a **viewer** or a **streamer**, WaveTip makes crypto-native suppo
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=💸+Tip+your+favorite+streamers+instantly;🌐+Built+on+Stellar+for+speed+%26+efficiency;🔐+Secure,+non-custodial,+user-controlled" alt="Typing SVG" />
 </p>
 
-[➡️ Install WaveTip](https://chrome.google.com/webstore)
+[➡️ Install WaveTip](https://app,wavetip.fi)
 
 ---
 
@@ -62,7 +62,7 @@ Whether you're a **viewer** or a **streamer**, WaveTip makes crypto-native suppo
   <p>Currently, WaveTip runs on the <strong>Stellar Testnet</strong>. USDC tokens have <strong>no real-world value</strong> and are used for demonstration only.</p>
 </details>
 
-➡️ [More FAQs](https://wavetip.fi)
+➡️ [More FAQs](https://app,wavetip.fi)
 
 ---
 
@@ -108,4 +108,5 @@ WaveTip is proudly built on **Stellar**, a fast, low-cost, and eco-friendly bloc
   <img src="https://img.shields.io/badge/browser-extension-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/usdc-stablecoin-blue?style=for-the-badge" />
 </p>
+
 

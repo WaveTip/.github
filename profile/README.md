@@ -2,14 +2,26 @@
 
 > **Tip. Connect. Earn.** Bring crypto tipping to Twitch with **USDC on Stellar** — fast, seamless, and secure.
 
-[➡️ Visit Website](https://app.wavetip.fi)
+[![🚀 Try the Live Demo](https://img.shields.io/badge/Try%20the%20Live%20Demo-00C389?style=for-the-badge&logo=rocket&logoColor=white)](https://app.wavetip.fi)
+[![🔎 View on Stellar Expert](https://img.shields.io/badge/View%20on%20Stellar%20Expert-0A3D62?style=for-the-badge&logo=stellar&logoColor=white)](https://stellar.expert/explorer/testnet/contract/CDS4PIWD7U5OGZ6POKJAPYCS63UTWX7C7POKITRL4BERFFFMP2Z35BWB?filter=history)
 
 ---
 
-<div align="center">
-  <img src="logo_wavetip.png" alt="WaveTip Logo" width="160" />
-  <p><em>Send & receive USDC tips while enjoying your favorite Twitch streams — all powered by Stellar.</em></p>
-</div>
+## 🤝 Powered by & in Partnership With
+
+<p align="center">
+  <img src="logo_wavetip.png" alt="WaveTip" height="70" />
+</p>
+
+<p align="center">
+  <a href="https://wavetip.fi"><strong>WaveTip</strong></a> is proudly built on <a href="https://stellar.org"><strong>Stellar</strong></a> and powered by <a href="https://stellar.org/soroban"><strong>Soroban</strong></a> smart contracts.
+</p>
+
+<p align="center">
+  <img src="logo_stellar.png" alt="Stellar" height="70" align="middle" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="logo_soroban.png" alt="Soroban" height="35" align="middle" />
+</p>
 
 ---
 
@@ -83,21 +95,10 @@ WaveTip is proudly built on **Stellar**, a fast, low-cost, and eco-friendly bloc
 
 ---
 
-## 🤝 Powered by & in Partnership With
-
-<p align="center">
-  <img src="logo_wavetip.png" alt="WaveTip" height="70" />
-</p>
-
-<p align="center">
-  <a href="https://wavetip.fi"><strong>WaveTip</strong></a> is proudly built on <a href="https://stellar.org"><strong>Stellar</strong></a> and powered by <a href="https://stellar.org/soroban"><strong>Soroban</strong></a> smart contracts.
-</p>
-
-<p align="center">
-  <img src="logo_stellar.png" alt="Stellar" height="70" align="middle" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="logo_soroban.png" alt="Soroban" height="35" align="middle" />
-</p>
+<div align="center">
+  <img src="logo_wavetip.png" alt="WaveTip Logo" width="160" />
+  <p><em>Send & receive USDC tips while enjoying your favorite Twitch streams — all powered by Stellar.</em></p>
+</div>
 
 ---
 
@@ -108,6 +109,7 @@ WaveTip is proudly built on **Stellar**, a fast, low-cost, and eco-friendly bloc
   <img src="https://img.shields.io/badge/browser-extension-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/usdc-stablecoin-blue?style=for-the-badge" />
 </p>
+
 
 
 

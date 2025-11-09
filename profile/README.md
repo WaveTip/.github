@@ -7,7 +7,7 @@
 
 ---
 
-## 🤝 Powered by & in Partnership With
+## 🤝 Powered by
 
 <p align="center">
   <img src="logo_wavetip.png" alt="WaveTip" height="70" />
@@ -109,6 +109,7 @@ WaveTip is proudly built on **Stellar**, a fast, low-cost, and eco-friendly bloc
   <img src="https://img.shields.io/badge/browser-extension-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/usdc-stablecoin-blue?style=for-the-badge" />
 </p>
+
 
 
 
